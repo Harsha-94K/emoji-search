@@ -1,0 +1,2 @@
+# emoji-search
+React App
